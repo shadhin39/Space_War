@@ -1,0 +1,17 @@
+﻿Build started 1/29/2018 3:54:28 PM.
+     1>Project "E:\practice\1\ClassPerfomance\ClassPerfomance\ClassPerfomance.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ClassPerfomance.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         ClassPerfomance.vcxproj -> E:\practice\1\ClassPerfomance\Debug\ClassPerfomance.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ClassPerfomance.unsuccessfulbuild".
+         Touching "Debug\ClassPerfomance.lastbuildstate".
+     1>Done Building Project "E:\practice\1\ClassPerfomance\ClassPerfomance\ClassPerfomance.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.37

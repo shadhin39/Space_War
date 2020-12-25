@@ -1,0 +1,13 @@
+﻿Build started 1/16/2018 7:37:10 AM.
+     1>Project "C:\Users\User\Desktop\MainProject\MainProject\MainProject.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\MainProject.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>c:\users\user\desktop\mainproject\mainproject\keyair.h(21): error C3861: 'iShowIMAGE2': identifier not found
+     1>Done Building Project "C:\Users\User\Desktop\MainProject\MainProject\MainProject.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.54
